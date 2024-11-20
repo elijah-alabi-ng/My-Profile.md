@@ -42,11 +42,24 @@
     </tr>
   </table>
   </div>
-  
+</details>
+
+
+<h2>📽 Projects</h2>
 <details>
-  <summary>Projects</summary>
+<summary><span style='color:darkblue'>SQL<i> (click to view)</i></span></summary>
   <ul>
-    <li>SQL: details soon...</li>
+    <li><a href='https://github.com/elijah-alabi-ng/Analyzing-Students-Mental-Health-Using-SQL/blob/main/README.md' target=_blank>Analysing Students Mental Health Using PostgreSQL</a></li>
+    <li><a href='https://github.com/elijah-alabi-ng/Netflix_Movies_Data_Analysis/blob/main/README.md' target=_blank>Netflix Movies Data Analysis</a></li>
   </ul>
 </details>
+
+<details>
+<summary><span style='color:darkblue'>Python<i> (click to view)</i></span></summary>
+  <ul>
+    <li><a href='https://github.com/elijah-alabi-ng/Airlines_Reviews_Analysis_Using_Python/blob/main/README.md' target=_blank>Airlines Customers Review Analysis</a></li>
+    <li><a href='https://github.com/elijah-alabi-ng/Netflix_Movies_Data_Analysis/blob/main/README.md' target=_blank>Netflix Movies Data Analysis</a></li>
+  </ul>
+</details>
+
 
