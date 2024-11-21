@@ -60,6 +60,7 @@
     <li><a href='https://github.com/elijah-alabi-ng/Airlines_Reviews_Analysis_Using_Python/blob/main/README.md' target=_blank>Airlines Customers Review Analysis</a></li>
     <li><a href='https://github.com/elijah-alabi-ng/Netflix_Movies_Data_Analysis/blob/main/README.md' target=_blank>Netflix Movies Data Analysis</a></li>
     <li><a href='https://github.com/elijah-alabi-ng/YouTube_Trending_Videos_Data_Analysis_Using_Python/blob/main/README.md' target=_blank>YouTube Trending Videos Analysis</a></li>
+    <li><a href='https://github.com/elijah-alabi-ng/Food_Claim_Exploratory_Data_Analysis_in_Python/blob/main/README.md' target=_blank>Food Claim Exploratory Data Analysis</a></li>
   </ul>
 </details>
 
