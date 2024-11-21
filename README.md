@@ -2,9 +2,7 @@
 
 <details>
   <summary><h2>About Me</h2></summary>
-  I'm a Data Analyst.<br><br>
-  I'm a freelancer.<br><br>
-  Profile content updating in progress...
+  Elijah Alabi is a skilled professional with over 10 years of experience in the Media, Power and Utilities sector analysis. My passion lies in leveraging data-driven insights to solve complex business problems and drive impactful decision-making. With a strong foundation in Python programming, expertise in data visualization and storytelling, I thrive on solving challenges and delivering innovative solutions.<br><br> I aim to focus on harnessing data to drive operational efficiency, strategic growth, impactful and innovative solutions that bridge technology and business needs, establishing myself as a renowned analyst.<br><br>
 </details>
 
 <details>
